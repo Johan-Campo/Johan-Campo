@@ -54,10 +54,8 @@ Actualmente fortaleciendo mis conocimientos en arquitecturas backend modernas y 
 ##  Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Johan-Campo&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johan-Campo&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+  <img src="https://streak-stats.demolab.com?user=Johan-Campo&theme=github-dark&hide_border=true" />
 </p>
-
 ---
 
 ##  Enfoque Profesional
