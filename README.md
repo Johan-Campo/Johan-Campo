@@ -1,4 +1,4 @@
-<h1 align="center">Johan Alejandro</h1>
+<h1 align="center">Johan Alejandro Campo Pabon</h1>
 <p align="center">
   Desarrollador Full-Stack · Enfoque en Backend <br/>
   Estudiante de Ingeniería Electrónica
