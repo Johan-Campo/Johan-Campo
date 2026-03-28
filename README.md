@@ -13,7 +13,7 @@
   <a href="mailto:johancampo12@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contactar-blue?style=for-the-badge&logo=gmail">
   </a>
-  <a href="[https://linkedin.com/in/johancampo](https://www.linkedin.com/in/johan-alejandro-campo-pabon-6b1a422b8/)">
+  <a href="https://www.linkedin.com/in/johan-alejandro-campo-pabon-6b1a422b8/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
