@@ -149,7 +149,6 @@ Características:
 
 Ingeniería Electrónica  
 Universidad del Magdalena  
-Finalización académica próxima
 
 ---
 
