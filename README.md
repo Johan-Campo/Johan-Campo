@@ -35,7 +35,7 @@ Desarrollador Full-Stack con más de **1 año de experiencia** construyendo soft
 ## 💼 Experiencia Profesional
 
 ### Full-Stack Developer — A13Agency
-**Santa Marta, Colombia · Febrero 2026 – Actualidad**
+**Santa Marta, Colombia · Enero 2026 – Actualidad**
 
 -  Desarrollo de plataforma SaaS de menú digital interactivo para restaurantes con **Next.js 15**, **MongoDB** y **Prisma ORM**
 -  Implementación de comunicación en tiempo real multiplataforma con **Pusher Channels** y **BroadcastChannel API**
