@@ -2,7 +2,7 @@
 
 # Johan Alejandro Campo Pabón
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%7C+C%23+%2F+.NET+%2F+ASP.NET+Core;Node.js+%7C+Next.js+%7C+REST+APIs;MongoDB+%7C+SQL+Server+%7C+Entity+Framework;Building+scalable+software+for+real+businesses" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%7C+.NET+%7C+Node.js+%7C+PHP;ASP.NET+Core+%7C+Entity+Framework+Core;REST+APIs+%7C+MongoDB+%7C+SQL+Server+%7C+MySQL;Building+real+software+for+real+businesses" alt="Typing SVG" />
 
 <br/>
 
@@ -18,22 +18,22 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
-Desarrollador Full-Stack con más de **1 año de experiencia** construyendo software orientado a procesos reales de negocio. Me especializo en **backend con C# / .NET y Node.js**, diseñando APIs REST, arquitecturas multi-tenant y sistemas en tiempo real sobre bases de datos SQL y NoSQL. También tengo experiencia con **PHP y MySQL**.
+Desarrollador de software con más de **1 año de experiencia** construyendo aplicaciones web y soluciones empresariales, con enfoque principal en backend. Experiencia trabajando con **.NET, Node.js y PHP**, diseñando APIs REST y lógica de negocio sobre bases de datos SQL y NoSQL, con participación en desarrollo full-stack con React y Next.js.
 
 ```text
  Actualmente trabajando en  →  A13 Agency (Santa Marta) — Mesero IA
- Stack principal            →  C# · .NET · ASP.NET Core · Entity Framework Core
- Stack complementario       →  Node.js · Next.js · React · MongoDB · Prisma ORM · PHP · MySQL
+ Backend                    →  C# · .NET · ASP.NET Core · Node.js · PHP
+ Bases de datos             →  SQL Server · MySQL · MongoDB · Entity Framework Core · Prisma ORM
+ Frontend                   →  React · Next.js · TypeScript · Tailwind CSS
  Me interesa                →  Backend, diseño de APIs, arquitecturas limpias, SaaS
- Enfoque                    →  Software mantenible, escalable y orientado al negocio
  Idiomas                    →  Español (Nativo) · Inglés B2 (EF SET Certified)
 ```
 
 ---
 
-## 💼 Experiencia Profesional
+##  Experiencia Profesional
 
 ### Full-Stack Developer — A13 Agency
 **Santa Marta, Colombia · Enero 2026 – Actualidad**
@@ -43,10 +43,10 @@ Desarrollador Full-Stack con más de **1 año de experiencia** construyendo soft
 - Diseñé e implementé más de 20 endpoints REST con Node.js y Next.js App Router, con validación de entrada, manejo de errores y separación entre lógica de negocio y capa de transporte; autorización server-side con NextAuth.js (JWT) y validación de propiedad del recurso por `businessId` en cada operación sensible.
 - Modelé el esquema de base de datos en MongoDB vía Prisma ORM con 13+ entidades interrelacionadas, aplicando índices para consultas de alta frecuencia e implementando aislamiento completo de datos por cliente a nivel de API y base de datos.
 - Resolví la sincronización de estado entre dispositivos con Pusher y BroadcastChannel API, eliminando el polling; incluye el backend del KDS con eventos bidireccionales, timers por pedido, consolidación de órdenes por zona de comanda y recuperación de estado desde base de datos ante cierres inesperados de sesión.
-- Desarrollé el módulo de domicilios end-to-end: APIs REST para gestión de sedes, checkout con persistencia del pedido en modelo propio en base de datos y sincronización de estado en tiempo real vía Pusher; incluye tablero Kanban con drag & drop para gestión operativa de pedidos desde el panel administrativo.
-- Integré Claude API para búsqueda semántica, ElevenLabs para síntesis de voz y construí interfaces administrativas con React y Next.js: panel CMS multi-tenant, flujo completo de facturación electrónica, sesiones de mesa con IVA/IPO dinámico por producto y PWA con notificaciones push.
+- Desarrollé un CMS en PHP puro y MySQL con autenticación por sesiones PHP, operaciones CRUD, consultas parametrizadas contra SQL injection y renderizado dinámico server-side desde un panel administrativo centralizado para la gestión y estandarización de contenido web.
+- Integré Claude API para búsqueda semántica, ElevenLabs para síntesis de voz y construí interfaces administrativas con React y Next.js: panel CMS multi-tenant, facturación electrónica, sesiones de mesa con IVA/IPO dinámico y PWA con notificaciones push.
 
-`Node.js` `Next.js` `React` `MongoDB` `Prisma ORM` `Pusher` `NextAuth.js` `REST APIs` `PWA`
+`Node.js` `Next.js` `React` `MongoDB` `Prisma ORM` `Pusher` `NextAuth.js` `PHP` `MySQL` `REST APIs` `PWA`
 
 ---
 
@@ -63,7 +63,7 @@ Desarrollador Full-Stack con más de **1 año de experiencia** construyendo soft
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 <div align="center">
 
@@ -109,7 +109,7 @@ Desarrollador Full-Stack con más de **1 año de experiencia** construyendo soft
 
 ## 📂 Proyectos Destacados
 
-### 🍽️ Estadero Parador Turístico — Sistema de Gestión
+###  Estadero Parador Turístico — Sistema de Gestión
 > *En producción*
 
 Sistema web administrativo construido con ASP.NET Core MVC para un negocio real, con ciclo completo de pedidos, control de acceso por roles y despliegue en Azure.
@@ -126,7 +126,7 @@ Sistema web administrativo construido con ASP.NET Core MVC para un negocio real,
 
 ---
 
-### 🔗 MarTree — Personal Link Management Platform
+###  MarTree — Personal Link Management Platform
 > *En producción*
 
 Plataforma full-stack con arquitectura desacoplada para gestión y personalización de enlaces, con perfil público dinámico por usuario.
@@ -143,7 +143,7 @@ Plataforma full-stack con arquitectura desacoplada para gestión y personalizaci
 
 ---
 
-## 📊 Estadísticas
+##  Estadísticas
 
 <div align="center">
 
