@@ -18,12 +18,11 @@
 
 ---
 
-##  Sobre mí
+## Sobre mí
 
 Desarrollador de software con más de **1 año de experiencia** construyendo aplicaciones web y soluciones empresariales, con enfoque principal en backend. Experiencia trabajando con **.NET, Node.js y PHP**, diseñando APIs REST y lógica de negocio sobre bases de datos SQL y NoSQL, con participación en desarrollo full-stack con React y Next.js.
 
 ```text
- Actualmente trabajando en  →  A13 Agency (Santa Marta) — Mesero IA
  Backend                    →  C# · .NET · ASP.NET Core · Node.js · PHP
  Bases de datos             →  SQL Server · MySQL · MongoDB · Entity Framework Core · Prisma ORM
  Frontend                   →  React · Next.js · TypeScript · Tailwind CSS
@@ -33,7 +32,7 @@ Desarrollador de software con más de **1 año de experiencia** construyendo apl
 
 ---
 
-##  Experiencia Profesional
+## Experiencia Profesional
 
 ### Full-Stack Developer — A13 Agency
 **Santa Marta, Colombia · Enero 2026 – Actualidad**
@@ -63,7 +62,7 @@ Desarrollador de software con más de **1 año de experiencia** construyendo apl
 
 ---
 
-##  Stack Tecnológico
+## Stack Tecnológico
 
 <div align="center">
 
@@ -89,8 +88,6 @@ Desarrollador de software con más de **1 año de experiencia** construyendo apl
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-
-
 ### Arquitectura & Tiempo Real
 ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
@@ -109,7 +106,7 @@ Desarrollador de software con más de **1 año de experiencia** construyendo apl
 
 ## 📂 Proyectos Destacados
 
-###  Estadero Parador Turístico — Sistema de Gestión
+### Estadero Parador Turístico — Sistema de Gestión
 > *En producción*
 
 Sistema web administrativo construido con ASP.NET Core MVC para un negocio real, con ciclo completo de pedidos, control de acceso por roles y despliegue en Azure.
@@ -126,7 +123,7 @@ Sistema web administrativo construido con ASP.NET Core MVC para un negocio real,
 
 ---
 
-###  MarTree — Personal Link Management Platform
+### MarTree — Personal Link Management Platform
 > *En producción*
 
 Plataforma full-stack con arquitectura desacoplada para gestión y personalización de enlaces, con perfil público dinámico por usuario.
@@ -143,7 +140,23 @@ Plataforma full-stack con arquitectura desacoplada para gestión y personalizaci
 
 ---
 
-##  Estadísticas
+### MiniVend — Sistema de Gestión de Ventas e Inventario
+
+Sistema web de Punto de Venta (POS) e inventario construido con PHP, MySQL y arquitectura MVC, orientado a pequeñas y medianas empresas que necesitan reemplazar registros manuales por una solución estructurada, multiusuario y basada en navegador.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white)
+![FPDF](https://img.shields.io/badge/FPDF-PDF_Generation-red?style=flat-square)
+
+- POS con flujo de venta por carrito: búsqueda/escaneo de productos por código de barras, vinculación a cliente, cálculo de cambio y descuento atómico de stock en una sola transacción.
+- Gestión completa de inventario, categorías, clientes, usuarios y múltiples cajas registradoras, con CRUD, validación de datos y control de saldo por caja.
+- Generación de facturas formales y tickets térmicos en PDF directamente en el servidor con FPDF, sin dependencias externas; sesiones seguras con hash bcrypt y búsqueda global con persistencia en sesión.
+
+---
+
+## Estadísticas
 
 <div align="center">
 
