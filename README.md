@@ -49,7 +49,7 @@ Desarrollador de software con más de **1 año de experiencia** construyendo apl
 ---
 
 ### Backend Developer — WantDigital S.A.S
-**Bogotá, Colombia (Remoto) · Febrero 2025 – Diciembre 2025**
+**Bogotá, Colombia (Remoto) · Enero 2025 – Diciembre 2025**
 
 - Desarrollé la capa de servidor en **Node.js y Express** con autenticación JWT, refresh tokens, autorización por roles y middlewares centralizados para validación y manejo de errores, consumida por frontend en React.
 - Estructuré el backend en **Node.js** siguiendo separación por capas con Express Router modular, aplicando Repository Pattern y gestionando acceso a datos con **Sequelize ORM** sobre MySQL, con transacciones para operaciones críticas.
