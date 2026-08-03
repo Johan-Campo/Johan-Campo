@@ -6,7 +6,7 @@
 
 <br/>
 
-<p>Desarrollador Backend &nbsp;·&nbsp; Ingeniería Electrónica · Universidad del Magdalena</p>
+<p>Desarrollador Backend &nbsp;·&nbsp; Ingeniería de Sistemas · Universidad Nacional Abierta y a Distancia (UNAD)</p>
 
 <br/>
 
@@ -20,11 +20,11 @@
 
 ## Sobre mí
 
-Desarrollador de software con más de **1 año de experiencia** construyendo aplicaciones web y soluciones empresariales, con enfoque principal en backend utilizando **Node.js y .NET**. Me enfoco en escribir código limpio, mantenible y orientado a generar impacto real.
+Desarrollador de software con más de **2 años de experiencia** construyendo aplicaciones web y soluciones empresariales, con enfoque principal en backend utilizando **Node.js y .NET**. Me enfoco en escribir código limpio, mantenible y orientado a generar impacto real.
 
 ```text
  Backend                    →  Node.js · Express.js · ASP.NET Core · C# · .NET
- Bases de datos             →  MongoDB · MySQL · SQL Server · Prisma ORM · Sequelize
+ Bases de datos             →  MongoDB · MySQL · SQL Server · Prisma ORM
  Frontend                   →  React · Next.js · TypeScript · Tailwind CSS
  Me interesa                →  Backend, diseño de APIs, arquitecturas limpias, SaaS
  Idiomas                    →  Español (Nativo) · Inglés B2 (EF SET Certified)
@@ -34,8 +34,24 @@ Desarrollador de software con más de **1 año de experiencia** construyendo apl
 
 ## Experiencia Profesional
 
-### Backend Developer — A13 Agency
-**Santa Marta, Colombia · Enero 2026 – Actualidad**
+### Full Stack Developer — Cámara de Representantes – Unidad de Trabajo Legislativo
+**Bogotá, Colombia · Diciembre 2023 – Junio 2026**
+
+> Perfil técnico enfocado en la transformación digital de un despacho legislativo: procesos administrativos, gestión documental, seguimiento legislativo y atención ciudadana.
+
+- Modernicé el sitio web institucional del despacho migrando una implementación basada en HTML estático hacia una **Single Page Application (SPA)** desarrollada con **React y TypeScript**, reduciendo el tiempo de carga de aproximadamente 4 segundos a 1.5 segundos y facilitando la publicación y actualización de contenidos para la ciudadanía.
+- Diseñé e implementé una plataforma de gestión y seguimiento de solicitudes ciudadanas (**PQR**) con **React, Node.js, Express y MySQL**, incorporando trazabilidad de estados, notificaciones automáticas con **Nodemailer** y una **API REST** para la comunicación entre frontend y backend.
+- Desarrollé un sistema de gestión documental, correspondencia e inventario de activos que reemplazó procesos manuales en Excel por flujos digitales con control de responsables, historial de movimientos y trazabilidad de la información administrativa.
+- Construí herramientas y dashboards operativos en **React**, alimentados mediante consultas optimizadas en **MySQL**, consolidando indicadores de solicitudes ciudadanas, seguimiento de proyectos legislativos, agenda del despacho e inventario para apoyar la toma de decisiones.
+- Automaticé procesos internos mediante scripts en **Node.js** programados con **cron**, orientados a respaldos periódicos, generación de reportes y actualización de información utilizada en los procesos administrativos y legislativos del despacho.
+- Gestioné el ciclo de desarrollo con **Git** y brindé soporte tecnológico al despacho, coordinando con el área de Sistemas de la Cámara la atención de incidencias e integraciones con herramientas institucionales como **Kactus**, correo corporativo, VPN y otras plataformas administrativas.
+
+`Node.js` `Express.js` `React` `TypeScript` `MySQL` `REST APIs` `Nodemailer` `Git` `Cron` `Linux`
+
+---
+
+### Software Engineer & AI Integration — A13 Agency (Freelance)
+**Santa Marta, Colombia · Mayo 2026 – Agosto 2026**
 
 > Plataforma SaaS multi-tenant en producción: **[Mesero IA](https://www.meseroia.com/)**
 
@@ -45,18 +61,6 @@ Desarrollador de software con más de **1 año de experiencia** construyendo apl
 - Integré **Claude API** para búsqueda semántica, **ElevenLabs** para síntesis de voz y construí interfaces administrativas con React y Next.js: panel CMS multi-tenant, facturación electrónica, sesiones de mesa con IVA dinámico y PWA con notificaciones push.
 
 `Node.js` `Next.js` `React` `MongoDB` `Prisma ORM` `Pusher` `NextAuth.js` `REST APIs` `PWA`
-
----
-
-### Backend Developer — WantDigital S.A.S
-**Bogotá, Colombia (Remoto) · Enero 2025 – Diciembre 2025**
-
-- Desarrollé la capa de servidor en **Node.js y Express** con autenticación JWT, refresh tokens, autorización por roles y middlewares centralizados para validación y manejo de errores, consumida por frontend en React.
-- Estructuré el backend en **Node.js** siguiendo separación por capas con Express Router modular, aplicando Repository Pattern y gestionando acceso a datos con **Sequelize ORM** sobre MySQL, con transacciones para operaciones críticas.
-- Desarrollé servicios backend con **ASP.NET Core** aplicando Repository Pattern, inyección de dependencias y LINQ sobre Entity Framework Core, estructurando la lógica de negocio en capas desacopladas con consultas optimizadas sobre SQL Server.
-- Automaticé integraciones con servicios externos de OCR/IA desde **Node.js** usando **n8n** como capa de orquestación, normalizando y persistiendo datos en MySQL y SQL Server.
-
-`Node.js` `Express.js` `Sequelize` `MySQL` `C#` `.NET` `ASP.NET Core` `Entity Framework Core` `SQL Server` `n8n`
 
 ---
 
@@ -85,7 +89,6 @@ Desarrollador de software con más de **1 año de experiencia** construyendo apl
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
 ### Arquitectura & Tiempo Real
 ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
@@ -94,11 +97,11 @@ Desarrollador de software con más de **1 año de experiencia** construyendo apl
 
 ### Herramientas & Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
 
@@ -154,6 +157,6 @@ Sistema web administrativo construido con ASP.NET Core MVC para un negocio real,
 
 <div align="center">
 
-*Construyendo software mantenible, escalable y orientado a generar impacto real* 🚀
+*Construyendo software mantenible, escalable y orientado a generar impacto real* 
 
 </div>
