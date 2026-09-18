@@ -2,11 +2,11 @@
 
 # Johan Alejandro Campo Pabón
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=339933&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+ASP.NET+Core;REST+APIs+%7C+MongoDB+%7C+MySQL+%7C+SQL+Server;Building+real+software+for+real+businesses" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=339933&center=true&vCenter=true&width=700&lines=AI+Software+Engineer;Node.js+%7C+Next.js+%7C+AI+Integrations;REST+APIs+%7C+MongoDB+%7C+Prisma+%7C+Real-Time+Systems;Building+real+software+for+real+businesses" alt="Typing SVG" />
 
 <br/>
 
-<p>Desarrollador Backend &nbsp;·&nbsp; Ingeniería de Sistemas · Universidad Nacional Abierta y a Distancia (UNAD)</p>
+<p>AI Software Engineer &nbsp;·&nbsp; Ingeniería de Sistemas · Universidad Nacional Abierta y a Distancia (UNAD)</p>
 
 <br/>
 
@@ -20,13 +20,14 @@
 
 ## Sobre mí
 
-Desarrollador de software con más de **2 años de experiencia** construyendo aplicaciones web y soluciones empresariales, con enfoque principal en backend utilizando **Node.js y .NET**. Me enfoco en escribir código limpio, mantenible y orientado a generar impacto real.
+Desarrollador de software con más de **2 años de experiencia** construyendo aplicaciones web, APIs y plataformas empresariales para clientes de los sectores público y privado. Me enfoco en sistemas internos, plataformas SaaS multi-tenant e integraciones de IA, escribiendo código limpio, mantenible y orientado a generar impacto real en el negocio.
 
 ```text
- Backend                    →  Node.js · Express.js · ASP.NET Core · C# · .NET
- Bases de datos             →  MongoDB · MySQL · SQL Server · Prisma ORM
+ Backend                    →  Node.js · Express.js · Next.js · TypeScript
+ Bases de datos             →  MongoDB · MySQL · PostgreSQL · Prisma ORM · Sequelize
  Frontend                   →  React · Next.js · TypeScript · Tailwind CSS
- Me interesa                →  Backend, diseño de APIs, arquitecturas limpias, SaaS
+ IA & Tiempo real           →  Claude API · OpenAI API · WebSockets · Pusher Channels
+ Me interesa                →  Backend, diseño de APIs, arquitecturas limpias, SaaS con IA
  Idiomas                    →  Español (Nativo) · Inglés B2 (EF SET Certified)
 ```
 
@@ -34,33 +35,30 @@ Desarrollador de software con más de **2 años de experiencia** construyendo ap
 
 ## Experiencia Profesional
 
-### Full Stack Developer — Cámara de Representantes – Unidad de Trabajo Legislativo
-**Bogotá, Colombia · Diciembre 2023 – Junio 2026**
-
-> Perfil técnico enfocado en la transformación digital de un despacho legislativo: procesos administrativos, gestión documental, seguimiento legislativo y atención ciudadana.
-
-- Modernicé el sitio web institucional del despacho migrando una implementación basada en HTML estático hacia una **Single Page Application (SPA)** desarrollada con **React y TypeScript**, reduciendo el tiempo de carga de aproximadamente 4 segundos a 1.5 segundos y facilitando la publicación y actualización de contenidos para la ciudadanía.
-- Diseñé e implementé una plataforma de gestión y seguimiento de solicitudes ciudadanas (**PQR**) con **React, Node.js, Express y MySQL**, incorporando trazabilidad de estados, notificaciones automáticas con **Nodemailer** y una **API REST** para la comunicación entre frontend y backend.
-- Desarrollé un sistema de gestión documental, correspondencia e inventario de activos que reemplazó procesos manuales en Excel por flujos digitales con control de responsables, historial de movimientos y trazabilidad de la información administrativa.
-- Construí herramientas y dashboards operativos en **React**, alimentados mediante consultas optimizadas en **MySQL**, consolidando indicadores de solicitudes ciudadanas, seguimiento de proyectos legislativos, agenda del despacho e inventario para apoyar la toma de decisiones.
-- Automaticé procesos internos mediante scripts en **Node.js** programados con **cron**, orientados a respaldos periódicos, generación de reportes y actualización de información utilizada en los procesos administrativos y legislativos del despacho.
-- Gestioné el ciclo de desarrollo con **Git** y brindé soporte tecnológico al despacho, coordinando con el área de Sistemas de la Cámara la atención de incidencias e integraciones con herramientas institucionales como **Kactus**, correo corporativo, VPN y otras plataformas administrativas.
-
-`Node.js` `Express.js` `React` `TypeScript` `MySQL` `REST APIs` `Nodemailer` `Git` `Cron` `Linux`
-
----
-
-### Software Engineer & AI Integration — A13 Agency (Freelance)
-**Santa Marta, Colombia · Mayo 2026 – Agosto 2026**
+### Software Developer & AI Integration — A13 Agency
+**Santa Marta, Colombia · Mayo 2026 – Actualidad**
 
 > Plataforma SaaS multi-tenant en producción: **[Mesero IA](https://www.meseroia.com/)**
 
-- Diseñé e implementé más de 20 endpoints REST con **Node.js y Next.js** App Router, estructurando validación de entrada, manejo de errores y separación entre lógica de negocio y capa de transporte; autorización server-side con NextAuth.js (JWT) y validación de propiedad del recurso por `businessId` en cada operación sensible.
-- Modelé el esquema de base de datos en **MongoDB vía Prisma ORM** con 13+ entidades interrelacionadas, aplicando índices para consultas de alta frecuencia e implementando arquitectura multi-tenant con aislamiento completo de datos por cliente a nivel de API y base de datos.
-- Resolví la sincronización de estado entre dispositivos con **Pusher y BroadcastChannel API**, eliminando el polling; incluye el backend del KDS con eventos bidireccionales, timers por pedido, consolidación de órdenes por zona de comanda y recuperación de estado desde base de datos ante cierres inesperados de sesión.
-- Integré **Claude API** para búsqueda semántica, **ElevenLabs** para síntesis de voz y construí interfaces administrativas con React y Next.js: panel CMS multi-tenant, facturación electrónica, sesiones de mesa con IVA dinámico y PWA con notificaciones push.
+- Construí el backend de una plataforma SaaS multi-tenant con **Node.js** (event loop, streams), **Next.js** y **MongoDB** vía **Prisma ORM**, entregando más de 25 endpoints REST con aislamiento completo de datos por cliente y autorización JWT/NextAuth.js.
+- Resolví la sincronización de estado en tiempo real entre dispositivos con **Pusher Channels** y la **BroadcastChannel API** (WebSockets), manteniendo la consistencia del Kitchen Display System mediante eventos bidireccionales, seguimiento de domicilios en 4 estados y descuentos atómicos de stock.
+- Diseñé la arquitectura de la aplicación con el patrón en capas **Controller-Service-Repository** y enfoque de microservicios, respaldada por pruebas con **Jest**, entornos **Dockerizados** y pipelines **CI/CD con GitHub Actions** bajo metodología Scrum.
 
-`Node.js` `Next.js` `React` `MongoDB` `Prisma ORM` `Pusher` `NextAuth.js` `REST APIs` `PWA`
+`Node.js` `Next.js` `MongoDB` `Prisma` `NextAuth.js` `Pusher Channels` `WebSockets` `Docker` `Jest` `GitHub Actions`
+
+---
+
+### Software Developer & Automation — Cámara de Representantes – Unidad de Trabajo Legislativo
+**Bogotá, Colombia · Diciembre 2023 – Junio 2026**
+
+> Transformación digital de un despacho legislativo: procesos administrativos, gestión documental, seguimiento legislativo y atención ciudadana.
+
+- Lideré la reconversión tecnológica del sitio institucional, migrándolo de PHP a **Next.js** con **React y TypeScript** sobre un CMS headless, reduciendo el Time-to-Interactive en un 60% (de ~4s a ~1.5s) y permitiendo que el equipo publicara contenido de forma autónoma.
+- Impulsé la digitalización integral de la gestión documental, correspondencia e inventario de activos, reemplazando flujos basados en hojas de cálculo por una plataforma con control de versiones (**Git**) que estableció trazabilidad administrativa y responsabilidades claras.
+- Diseñé una plataforma omnicanal de solicitudes ciudadanas (**PQR**) con workflows automatizados, notificaciones proactivas vía **Nodemailer** y una API REST en **Node.js + Express** asegurada con JWT, garantizando trazabilidad completa desde el ingreso hasta la resolución.
+- Automaticé respaldos, reportes y sincronización de datos con **Node.js** y **cron jobs**, reduciendo la intervención manual en un 80%, gestionando el código con Git (GitFlow) y coordinando integraciones con herramientas institucionales como Kactus y VPN.
+
+`Node.js` `Express.js` `Next.js` `React` `TypeScript` `REST APIs` `Nodemailer` `Git` `Cron`
 
 ---
 
@@ -71,37 +69,34 @@ Desarrollador de software con más de **2 años de experiencia** construyendo ap
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Bases de Datos & ORM
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### Arquitectura & Tiempo Real
-![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+### Seguridad, IA & Tiempo Real
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge&logo=auth0&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Herramientas & Cloud
+![AWS](https://img.shields.io/badge/AWS_Certified_AI_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
@@ -128,7 +123,7 @@ Plataforma full-stack con arquitectura desacoplada para gestión y personalizaci
 ---
 
 ### Estadero Parador Turístico — Sistema de Gestión
-> *En producción*
+> *En producción · Proyecto personal anterior*
 
 Sistema web administrativo construido con ASP.NET Core MVC para un negocio real, con ciclo completo de pedidos, control de acceso por roles y despliegue en Azure.
 
@@ -157,6 +152,6 @@ Sistema web administrativo construido con ASP.NET Core MVC para un negocio real,
 
 <div align="center">
 
-*Construyendo software mantenible, escalable y orientado a generar impacto real* 
+*Construyendo software mantenible, escalable y orientado a generar impacto real*
 
 </div>
